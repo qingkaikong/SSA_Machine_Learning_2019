@@ -1,13 +1,16 @@
 name: python 3.6
+channels:
+  - conda-forge
 dependencies:
   - python=3.6
+  - basemap==1.2.0
+  - pyproj
   - pip:
     - scikit-learn==0.20.1
     - numpy==1.15.4
-    - matplotlib==3.0.1
+    - matplotlib==3.0.2
     - tensorflow==1.12.0
     - keras==2.2.4
     - pandas==0.23.4
     - obspy==1.1.0
     - scipy==1.1.0
-    - basemap==1.2.0
