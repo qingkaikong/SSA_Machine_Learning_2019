@@ -38,5 +38,5 @@ Currently it contains un-finished work, use at your own risk. It will be fully r
 * [Qingkai Kong](http://seismo.berkeley.edu/qingkaikong/)
 * Zefeng Li
 * Youzuo Lin
-* [Maruti K. Mudunuru] (https://www.lanl.gov/expertise/profiles/view/maruti-mudunuru)
+* [Maruti K. Mudunuru](https://www.lanl.gov/expertise/profiles/view/maruti-mudunuru)
 * Daniel T. Trugman
