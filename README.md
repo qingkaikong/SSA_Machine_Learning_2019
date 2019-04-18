@@ -39,4 +39,4 @@ Currently it contains un-finished work, use at your own risk. It will be fully r
 * Zefeng Li
 * Youzuo Lin
 * [Maruti K. Mudunuru](https://www.lanl.gov/expertise/profiles/view/maruti-mudunuru)
-* Daniel T. Trugman
+* [Daniel T. Trugman](https://www.lanl.gov/expertise/profiles/view/daniel-trugman)
