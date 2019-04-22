@@ -161,7 +161,7 @@ settings       = EfficientFCParameters()
 num_processors = 0
 extracted_features  = extract_features(df, column_id = 0, column_sort = 1, \
                                        default_fc_parameters = settings, \
-                                       n_jobs = num_processors, profile = True)
+                                       n_jobs = num_processors, profile = False)
 print(extracted_features)
 #extracted_features.to_csv('Extracted_Features.csv')
 
