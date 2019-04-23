@@ -14,3 +14,4 @@ dependencies:
     - obspy==1.1.0
     - scipy==1.1.0
     - tsfresh==0.11.2
+    - pyamg==4.0.0
